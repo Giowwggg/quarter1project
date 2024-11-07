@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>index</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: black;
+            color: white;
+            padding: 20px;
+        }
+        .section {
+            padding: 20px;
+        }
+        .section h2 {
+            color: #333;
+        }
+        footer {
+            background-color: black;
+            color: white;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>PUMA</h1>
+    <img src="puma.jpeg">
+</header>
+
+<div class="section">
+    <h2>Running Shoes</h2>
+    <p>High-performance shoes designed for athletes.</p>
+    <img src="images.jpeg"> <img src="download (2).jpeg"> <img src="download (3).jpeg">
+</div>
+
+<div class="section">
+    <h2>Basketball Shoes</h2>
+    <p>Durable and stylish sportswear for everyday champions.</p>
+    <img src="images (2).jpeg"> <img src="download (5).jpeg"> <img src="images (3).jpeg">
+</div>
+
+<div class="section">
+    <h2>Accessories</h2>
+    <p>Complete your look with our latest accessories.</p>
+    <img src="download (6).jpeg"> <img src="download (7).jpeg">
+</div>
+
+<footer>
+    <p>2024 PUMA</p>
+</footer>
+
+</body>
+</html>
